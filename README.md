@@ -19,7 +19,6 @@
 主要负责前端架构搭建、业务组件的开发、整站前端性能的优化以及版本管理等方面。
 针对前后端分离做了一些实践并运用到日常的开发工作中。
 在职期间，完成了美试网从"全局变量满天飞"的混乱局面到各个组件功能模块化，动态与静态资源剥离，开发出了一个相对完整的一套组件。
-前端view层面，使用React进行模块渲染，并构建了一套较为完善的自动化程序。
 
 
 ## 北京易麦通电子商务有限公司 （ 2012年10月 ~ 2015年2月 ）
@@ -43,11 +42,10 @@
 
 - 熟悉HTML&CSS(h5+css3)
 - 熟悉javascript，对面向对象、原型以及作用域有一定的经验
-- 熟悉javascript库  (angular/bootstrip/backblone有一定的了解，react比较熟悉)
-- 熟练运用前端自动化框架(npm/grunt/yomen/bower，对webpack比较熟悉)
+- 熟悉javascript库  (angular/bootstrip/backblone有一定的了解)
+- 熟练运用前端自动化框架(npm/grunt/yomen/bower，对fis比较熟悉)
 - 了解基本的nodejs命令，能够配合自动化框架进行开发工作
 - 熟悉github基本命令，能进行常规的版本管理
-- 了解ES6一些新特性并持续学习中
 - 熟悉commonJs,对AMD/CMD有一定的认识
 - 熟悉Jquery，了解jquery构建思想，函数封装以及事件处理机制
 
